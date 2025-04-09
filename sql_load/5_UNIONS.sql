@@ -5,7 +5,7 @@ SELECT
 FROM
     january_table
 
-UNION 
+UNION ALL
 
 SELECT
     job_title_short,
