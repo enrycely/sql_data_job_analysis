@@ -1,1 +1,6 @@
-TODO- Update the content whenver you change anaything
+INTRODUCTION
+BACKGROUND
+TOOLS I USED
+THE ANALYSIS
+WHAT I LEARNED
+CONCLUSIONS
